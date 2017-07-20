@@ -1,0 +1,22 @@
+.user-show {
+  border: 5px solid white;
+  font-size: 30pt;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10vh;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+#zegar3  {
+  text-decoration: bold;
+}
+body  {
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+.userdata {
+  color: white;
+}
